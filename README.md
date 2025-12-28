@@ -2,7 +2,7 @@
 
 # How to Run:
 1. Ensure Python 3 is installed
-2. Run: python scheduler.py
+2. Run: python Preemptive_Priority.py
 
 # Description:
 Implements a preemptive priority CPU scheduler with an aging mechanism
